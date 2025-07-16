@@ -10,7 +10,7 @@ npm install
 # Start development server
 npm run dev
 
-or using pnpm
+#or using pnpm
 pnpm installl
 
 #start development server

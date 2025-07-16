@@ -2,10 +2,16 @@
 
 ```bash
 # Clone this repo
-git clone https://github.com/username/project-name.git
+git clonehttps://github.com/zal153/tic-tac-toe.git
 
 # Install dependencies
 npm install
 
 # Start development server
 npm run dev
+
+or using pnpm
+pnpm installl
+
+#start development server
+pnpm run dev
